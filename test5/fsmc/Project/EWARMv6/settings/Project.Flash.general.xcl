@@ -1,0 +1,15 @@
+"D:\TOOLS\IAR\arm\bin\armproc.dll" 
+
+"D:\TOOLS\IAR\arm\bin\armjlink2.dll" 
+
+"C:\Users\Administrator\Desktop\7606\Project\EWARMv6\Flash\Exe\stm32-f4.out" 
+
+--plugin "D:\TOOLS\IAR\arm\bin\armbat.dll" 
+
+--device_macro "D:\TOOLS\IAR\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader "D:\TOOLS\IAR\arm\config\flashloader\ST\FlashSTM32F4xxx.board" 
+
+
+
+
